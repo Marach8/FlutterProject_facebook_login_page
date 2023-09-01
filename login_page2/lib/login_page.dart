@@ -164,7 +164,7 @@ class _LoginPage extends State<LoginPage> {
                       'Create new account',
                       style: GoogleFonts.getFont(
                         'Quicksand',
-                        color: const Color.fromARGB(255, 25, 83, 190),
+                        color: Colors.blue.shade800,//const Color.fromARGB(255, 25, 83, 190),
                         fontSize: h*0.02, fontWeight: FontWeight.bold,
                       )
                     )
